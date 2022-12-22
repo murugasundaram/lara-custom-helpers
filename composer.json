@@ -1,0 +1,18 @@
+{
+    "name": "muruga/lara-helpers",
+    "description": "helpers needed for laravel project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Muruga\\LaraHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muruga",
+            "email": "murugasundaram@expsoltechs.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
